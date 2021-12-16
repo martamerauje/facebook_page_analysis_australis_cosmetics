@@ -3,3 +3,5 @@ This competitive Facebook analysis aims to help a growing cosmetic company to be
 2. Most engaging type of post 
 3. Common Keywords
 4. Post Timing
+
+The link to the data can be found here: https://raw.githubusercontent.com/multidis/hult-social-media-analytics/main/data/brand_posts.csv
